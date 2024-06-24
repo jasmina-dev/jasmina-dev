@@ -2,7 +2,7 @@
 I'm a first-year student at Lafayette College studying Computer Science. 
 
 ## 🐸 Languages
-`Java` `C++` `Git` `HTML` `CSS` 
+`Java` `C++` `Git` `JavaScript` `React` `HTML` `CSS` 
   
 ## 🐻 Learning
-Currently, I'm trying to learn `JavaScript` so I can learn more frontend frameworks. Check out the [projects](https://github.com/jasmina-dev/fcc-projects) I'm working on.
+I'm currently learning how to make full-stack web apps.
